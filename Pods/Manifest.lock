@@ -1,0 +1,45 @@
+PODS:
+  - Masonry (1.1.0)
+  - MJExtension (3.2.2)
+  - MMKV (1.2.1):
+    - MMKVCore (~> 1.2.1)
+  - MMKVCore (1.2.1)
+  - SQLiteRepairKit (1.2.2):
+    - WCDBOptimizedSQLCipher (~> 1.2.0)
+  - WCDB (1.0.7.5):
+    - SQLiteRepairKit (~> 1.2.0)
+    - WCDBOptimizedSQLCipher (~> 1.2.0)
+  - WCDBOptimizedSQLCipher (1.2.1)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - Masonry
+  - MJExtension
+  - MMKV
+  - WCDB
+  - YYModel
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+    - MJExtension
+    - MMKV
+    - MMKVCore
+    - SQLiteRepairKit
+    - WCDB
+    - WCDBOptimizedSQLCipher
+    - YYModel
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJExtension: d9b9c74cbdeb724c1e9ecbb157b318276e62e876
+  MMKV: 67253edee25a34edf332f91d73fa94a9e038b971
+  MMKVCore: fe398984acac1fa33f92795d1b5fd0a334c944af
+  SQLiteRepairKit: 35aaae5a8838adb85f5b1eb4d796055be6060a4b
+  WCDB: 8e90babdeb7784c569353a4bd22a66c0a175a882
+  WCDBOptimizedSQLCipher: baf44493b0c7a3d49e97bc5b64a3856f6428ddd1
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: de3151e8acd58416b55591177caaea2db9f2e762
+
+COCOAPODS: 1.9.3
